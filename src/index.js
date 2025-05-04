@@ -1,1 +1,3 @@
-alert("This is the website of SugarCane Grove");
+import { homeload } from "./homeload.js";
+
+homeload();
