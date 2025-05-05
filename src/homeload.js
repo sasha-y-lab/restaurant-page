@@ -1,6 +1,6 @@
 export const homeload = () => {
 
-alert("This is the website of SugarCane Grove");
+alert("This is the website of Sugarcane Grove");
 
 const content = document.querySelector("#content");
 

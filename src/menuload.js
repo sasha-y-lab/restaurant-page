@@ -141,7 +141,7 @@ item3Sandwich.appendChild(item3SandwichPrice);
 orderedListSandwich.appendChild(item3Sandwich);
 
 
-sandwiches.appendChild(orderedListBev);
+sandwiches.appendChild(orderedListSandwich);
 menuDiv.appendChild(sandwiches);
 
 // mains section
@@ -204,7 +204,7 @@ item3Mains.appendChild(item3MainsPrice);
 
 orderedListMains.appendChild(item3Mains);
 
-mains.appendChild(orderedListBev);
+mains.appendChild(orderedListMains);
 menuDiv.appendChild(mains);
 
 content.appendChild(menuDiv);
